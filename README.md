@@ -26,3 +26,6 @@ The journal allows the user to express their thoughts and feelings in the form o
 
 - Scalable across different screens such as tablets
 
+## Images
+
+![MindMatters App Screenshot](images/Feature_Images.png)
