@@ -28,4 +28,9 @@ The journal allows the user to express their thoughts and feelings in the form o
 
 ## Images
 
-![MindMatters App Screenshot](images/Feature_Images.png)
+
+![MindMatters App Screenshot](Images/Further_Features.png)
+
+![MindMatters App Screenshot](Images/Feature_Images.png)
+
+![MindMatters App Screenshot](Images/Dark_Mode.png)
