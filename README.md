@@ -1,5 +1,8 @@
 # MindMatters-Mental-Health-App
 Mindmatters is a mental health app with evidence-based features, researched and developed as part of my final year project.
+
+To install, download the MindMatters.apk file onto your Android device, locate the file, enable unknown sources if prompted and start the installation.
+
 The MindMatters app has 3 primary features:
 
 ### Lora - The AI Chatbot
@@ -34,3 +37,4 @@ The journal allows the user to express their thoughts and feelings in the form o
 ![MindMatters App Screenshot](Images/Feature_Images.png)
 
 ![MindMatters App Screenshot](Images/Dark_Mode.png)
+
