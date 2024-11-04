@@ -17,16 +17,6 @@ The sleep tracker tracks sleep and provides the user with sleep data from previo
 
 The journal allows the user to express their thoughts and feelings in the form of short "thoughts", these thoughts are set to auto delete at a time determined by the user. 
 
-## Tech Stack
-
-Languages: Java, CSS
-
-Libraries and API's: OKHTTP Library, MPAndroidChart Library, OpenAI API
-
-Architecture: MVVM
-
-Software: Android Studio
-
 ### Additional Features
 
 - Passcode 
@@ -38,6 +28,16 @@ Software: Android Studio
 - Dark Mode
 
 - Scalable across different screens such as tablets
+
+## Tech Stack
+
+Languages: Java, CSS
+
+Libraries and API's: OKHTTP Library, MPAndroidChart Library, OpenAI API
+
+Architecture: MVVM
+
+Software: Android Studio
 
 ## Images
 
